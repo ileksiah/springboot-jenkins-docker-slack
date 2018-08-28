@@ -12,5 +12,6 @@ public class Application {
 		SpringApplication.run(Application.class, args);
         System.out.print("java test----2");
         System.out.print("java test----3");
+		System.out.print("java test----4");
 	}
 }
